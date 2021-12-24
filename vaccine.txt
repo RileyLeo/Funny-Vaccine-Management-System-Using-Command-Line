@@ -1,0 +1,5 @@
+6Pfizer 2PF 3USA 2 50.00 3.00
+7Sinovac 2SV 5China 2 18.80 3.50
+11AstraZeneca 2AZ 2UK 2 10.00 1.00
+9Sputnik V 2SP 6Russia 2 10.00 1.00
+10CanSinoVac 2CS 5China 1 10.90 1.50

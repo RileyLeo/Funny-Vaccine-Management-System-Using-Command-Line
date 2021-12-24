@@ -1,0 +1,11 @@
+6Pfizer 2PF 3.00
+6Pfizer 2PF 2.00
+7Sinovac 2SV 0.10
+7Sinovac 2SV 0.50
+11AstraZeneca 2AZ 0.75
+11AstraZeneca 2AZ 0.25
+9Sputnik V 2SP 0.10
+9Sputnik V 2SP 1.00
+10CanSinoBio 2CS 0.50
+10CanSinoBio 2CS 0.50
+6Pfizer 2PF 1.00
